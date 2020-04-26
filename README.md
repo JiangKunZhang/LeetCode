@@ -9,5 +9,5 @@
 # 已解题目 #
 
 ## 按题号 ##
-- [1.Two Sum](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q1_TwoSum/%241_TwoSum.java)
-- [2.Add Two Numbers](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q2_AddTwoNumbers/%242_AddTwoNumbers.java)
+- [1.Two Sum 两数之和](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q1_TwoSum/%241_TwoSum.java)
+- [2.Add Two Numbers 两数相加](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q2_AddTwoNumbers/%242_AddTwoNumbers.java)
