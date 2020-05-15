@@ -15,6 +15,7 @@
 - [20.有效的括号](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q20_%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7/Solution.java)
 - [21.Merge Two Sorted Lists 合并两个有序链表](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q21_MergeTwoLists/MergeTwoLists.java)
 - [24.两两交换链表中的节点](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q24_%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9/Solution.java)
+- [61.旋转链表](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q61_%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8/Solution.java)
 - [141.Linked List Cycle 环形链表](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q141_HasCycle/HasCycle.java)
 - [142.Linked List Cycle II 环形链表 II](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q142_DetectCycle/DetectCycle.java)
 - [160.Intersection Of Two Linked Lists 相交链表](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q160_GetIntersectionNode/GetIntersectionNode.java)
