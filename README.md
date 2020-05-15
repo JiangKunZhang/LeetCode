@@ -18,6 +18,8 @@
 - [61.旋转链表](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q61_%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8/Solution.java)
 - [82.删除排序链表中的重复元素II](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q82_%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0II/Solution.java)
 - [83.删除排序链表中的重复元素](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q83_%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0/Solution.java)
+- [94.二叉树的中序遍历](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q94_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86/Solution.java)
+
 - [141.Linked List Cycle 环形链表](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q141_HasCycle/HasCycle.java)
 - [142.Linked List Cycle II 环形链表 II](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q142_DetectCycle/DetectCycle.java)
 - [160.Intersection Of Two Linked Lists 相交链表](https://github.com/JiangKunZhang/LeetCode/blob/master/LeetCode/q160_GetIntersectionNode/GetIntersectionNode.java)
